@@ -22,6 +22,7 @@ This project carry out an analysis of Airbnb listings, giving details on the nei
 of a simple ML model to predict accomodation prices given the available features.
 I chose to use geopandas to create choropleth maps to visualize my results, as the dataset was providing a .geojason file containing all the different neighbourhoods.
 In order to classify the different zones in the maps, I used the FisherJenks schema as it was appropriate to highlight the natural breaks in the data.
+Here the link to the related post in Medium: https://medium.com/@aleguarnieri91/what-about-airbnb-in-milan-737752c14680?sk=3c07c69c05e58fd0e9aa7b4e3c3fdbe7
 
 # Acknowledgements
 
