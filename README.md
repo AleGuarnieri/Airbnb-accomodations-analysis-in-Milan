@@ -25,4 +25,6 @@ In order to classify the different zones in the maps, I used the FisherJenks sch
 
 # Acknowledgements
 
-Data provider: "Inside Airbnb" under license "Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"
+Data provider: 
+	"Inside Airbnb" under license "Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication"
+	"Agenzia delle Entrate": Banca dati delle quotazioni immobiliari (public bank of real estate quotes)
